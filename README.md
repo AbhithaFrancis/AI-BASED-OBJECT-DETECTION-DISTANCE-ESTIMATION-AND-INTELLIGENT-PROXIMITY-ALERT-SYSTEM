@@ -1,1 +1,2 @@
 # AI-BASED-OBJECT-DETECTION-DISTANCE-ESTIMATION-AND-INTELLIGENT-PROXIMITY-ALERT-SYSTEM
+AI-based real-time monitoring system that uses YOLO11m for object detection, OpenCV for image-quality analysis, and an ESP32 with an ultrasonic sensor for physical distance measurement. A Flask backend and React dashboard provide live object detection, distance monitoring, image-quality status, and proximity alerts in a unified interface.
